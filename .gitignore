@@ -1,3 +1,2 @@
 node_modules
-assets/compressed/*.png|.webp|.jpg|.jpeg|.gif|.svg
-assets/images/*.png|.webp|.jpg|.jpeg|.gif|.svg
+assets
